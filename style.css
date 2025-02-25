@@ -1,0 +1,53 @@
+.poster{
+    text-align: center;
+    color: antiquewhite;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 100px;
+}
+html{
+    background-color: black;
+}
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  #obrazek1 {
+    border: solid whitesmoke 5px;
+    width: 35%;
+
+  }
+  #obrazek2 {
+    border: solid whitesmoke 5px;
+    border-radius: 10px;
+    width: 80%;
+  }
+  p{
+    font-size: smaller;
+  }
+  h1{
+    text-transform: capitalize;
+  }
+  #kusiciel{
+    width: 100px;
+    height: 20px;
+    margin-left: 90%;
+    text-align: center;
+    width: 8%;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color: azure;
+  }
